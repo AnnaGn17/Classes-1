@@ -10,6 +10,6 @@ public class Main {
         System.out.println(book1);
 
         book.setPublicationYear(124);
-        System.out.println(book.getPublicationYear());
+        System.out.println("новый год издания "book.getPublicationYear());
     }
 }
